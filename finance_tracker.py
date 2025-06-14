@@ -463,7 +463,7 @@ def main():
     
     while True:
         print('\n' + '='*50)
-        print('========== Personal Finance Tracker ==========')
+        print('========== BucksBot (Automated money manager) ==========')
         print('1. Add Income')
         print('2. Add Expense')
         print('3. Financial Summary & Savings')
